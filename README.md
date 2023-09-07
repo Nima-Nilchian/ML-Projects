@@ -13,4 +13,7 @@ classification and simple NLP task to predict the category of text base on its t
 * [Search Analysis](https://github.com/Nima-Nilchian/ML-Projects/tree/master/search_analysis)
 some analysis and preprocessing on data and EDA for upcoming task
 
+* [Auto-Suggest](https://github.com/Nima-Nilchian/ML-Projects/blob/master/Search_Suggestion/auto_suggest.ipynb)
+  Auto Suggest search system for more flexible, intelligent suggestion of user searchs.
+
 
